@@ -1,0 +1,180 @@
+:root {
+  font-family: 'Open Sans', sans-serif;
+  font-family: 'Raleway', sans-serif;
+  font-family: 'Roboto', sans-serif;
+  }
+/*header section styles*/
+.webstudio-logo-header{
+  position: absolute;
+  width: 145px;
+  height: 31px;
+  left: 215px;
+  top: 24px;
+  
+  font-family: 'Raleway';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 26px;
+  line-height: 31px;
+  /* identical to box height */
+  
+  letter-spacing: 0.03em;
+  
+  color: #2196F3;
+  } 
+  /* Studio */
+  .nav-studio{
+
+    position: absolute;
+    width: 42px;
+    height: 16px;
+    left: 453px;
+    top: 32px;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0.02em;
+    
+    color: #2196F3;}
+    a:link{text-decoration: none;}
+    a:visited{color: #000;}
+    a:hover{background-color: darkred;}
+    a:focus{background-color: gray;}
+
+  body {
+    background-color:  #E5E5E5;
+   }
+   .main-class {
+     background: #FFFFFF;
+   
+   }
+   
+   .main-class a.visited{
+    color:#212121;
+   
+   }
+   .tel-class{
+     color: #757575;
+   
+   }
+   
+   .logo-class{
+     font-family: 'Raleway';
+   font-style: normal;
+   font-weight: 700;
+   font-size: 26px;
+   line-height: 31px;
+   color: blue;
+   
+   }
+   .title-class {
+     background-color: #2F303A;
+     text-align: center;
+     font-family: Roboto;
+     font-size: 44px;
+     background-position: center;
+   }
+   h1 {background-color: black;
+     color: #FFFFFF;
+   }
+   .title-button {
+     font-family: 'Roboto';
+   font-style: normal;
+   font-weight: 700;
+   
+   } 
+   h2,h3, h4 {
+     font-family: Roboto;
+   font-size: 14px;
+   font-weight: 700;
+   line-height: 16px;
+   letter-spacing: 0.03em;
+   text-align: left;
+    }
+   
+   span{
+     font-family: 'Roboto';
+   font-style: normal;
+   font-weight: 400;
+   color: #757575;
+   }
+   
+   .our-value {
+     background: #F5F4FA;
+   
+   }
+   
+   .our-work {
+     background: #F5F4FA;
+   
+   }
+   
+   .our-team {
+      background: #F5F4FA;
+   
+   }
+   
+   footer { 
+     background: #2F303A;
+     color: white;
+   
+   }
+   
+   .street-class {
+     color: #FFFFFF;
+     font-family: 'Roboto';
+   font-style: normal;
+   font-weight: 400
+   
+   }
+   
+   .email-class {
+     color: rgba(255, 255, 255, 0.6);
+   font-family: 'Roboto';
+   font-style: normal;
+   font-weight: 400;
+   }
+   :hover{ forced-color-adjust: red;}
+   
+   .phone-class {
+     color: rgba(255, 255, 255, 0.6);
+     font-family: 'Roboto';
+   font-style: normal;
+   font-weight: 400;
+   }
+  :hover{forced-color-adjust: red;}
+   
+   .portofolio-classss {
+   background: #FFFFFF;
+   
+   }
+   
+   
+   .main-class a {
+     color: #757575;
+   
+   }
+   .main-class a.active {
+     color: #2196F3;
+   
+   }
+   .button-class {
+     background:  #FFFFFF;
+     font-family: Roboto;
+     
+   font-size: 16px;
+   font-weight: 500;
+   
+   }
+   
+   p {
+     color: #757575;
+     font-family: Roboto;
+   font-size: 16px;
+   font-weight: 400;
+   
+   
+   }
