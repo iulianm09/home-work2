@@ -3,6 +3,16 @@
   font-family: 'Raleway', sans-serif;
   font-family: 'Roboto', sans-serif;
   }
+  :root {
+    --black: #000;
+    --white: #fff;
+    }
+    .clasa {
+      background-color: var(--black);
+      }
+    body {
+      font-family: "Roboto", sans-serif;
+      }
 /*header section styles*/
 .webstudio-logo-header{
   position: absolute;
@@ -35,7 +45,7 @@
     font-style: normal;
     font-weight: 500;
     font-size: 14px;
-    line-height: 16px;
+    line-height: 1.5;
     letter-spacing: 0.02em;
     
     color: #2196F3;}

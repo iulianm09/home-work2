@@ -1,0 +1,213 @@
+:root {
+  font-family: 'Open Sans', sans-serif;
+  font-family: 'Raleway', sans-serif;
+  font-family: 'Roboto', sans-serif;
+  --black: black;
+    --white: white;
+    line-height: 1.5;
+  }
+
+    .clasa {
+      background-color: black;
+      }
+
+   
+/*header section styles*/
+.webstudio-logo-header{
+  position: absolute;
+  width: 145px;
+  height: 31px;
+  left: 215px;
+  top: 24px;
+  
+  font-family: 'Raleway';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 26px;
+  line-height: 31px;
+  /* identical to box height */
+  
+  letter-spacing: 0.03em;
+  
+  color: blue;
+  } 
+  /* Studio */
+  .nav-studio{
+
+    position: absolute;
+    width: 42px;
+    height: 16px;
+    line-height: 1.5;
+    left: 453px;
+    top: 32px;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    
+    color: blue;}
+    a:link{text-decoration: none;}
+    a:visited{color: #000;}
+    a:hover{background-color: darkred;}
+    a:focus{background-color: gray;}
+    body {
+      font-family: "Roboto", sans-serif;
+      }
+      .clasa {
+        background-color: black;
+        }
+   .main-class {
+     background: white;
+   
+   }
+   
+   .main-class a.visited{
+    color:black;
+   
+   }
+   .tel-class{
+     color: gray;
+   
+   }
+   
+   .logo-class{
+     font-family: 'Raleway';
+   font-style: normal;
+   font-weight: 700;
+   font-size: 26px;
+   line-height: 31px;
+ 
+   
+   }
+   
+   .title-class {
+     background-color:  black;
+     text-align: center;
+     font-family:"Roboto";
+     font-size: 44px;
+     background-position: center;
+   }
+   .clasa {
+    background-color: black;
+    }
+   
+   h1 {background-color: black;
+     color: white;
+   }
+   .title-button {
+     font-family: 'Roboto';
+   font-style: normal;
+   font-weight: 700;
+   
+   } 
+   h2,h3, h4 {
+     font-family: 'Roboto';
+   font-size: 14px;
+   font-weight: 700;
+   line-height: 1.5;
+   letter-spacing: 0.03em;
+   text-align: left;
+    }
+   
+   span{
+     font-family: 'Roboto';
+   font-style: normal;
+   font-weight: 400;
+   color: gray;
+   }
+   
+   .our-value {
+     background: white;
+   
+   }
+   
+   .our-work {
+     background: white;
+   
+   }
+   
+   .our-team {
+      background: white;
+   
+   }
+   
+   footer { 
+     background: black;
+     color: white;
+   
+   }
+   
+   .street-class {
+     color: white;
+     font-family: 'Roboto';
+   font-style: normal;
+   font-weight: 400
+   
+   }
+   
+   .email-class {
+     color: gray;
+   font-family: 'Roboto';
+   font-style: normal;
+   font-weight: 400;
+   }
+   :hover{ color:gray;}
+   
+   .phone-class {
+     color: grey;
+     font-family: 'Roboto';
+   font-style: normal;
+   font-weight: 400;
+   }
+  :hover{color: gray;}
+   
+   .portofolio-classss {
+   background: white;
+   
+   }
+   
+   
+   .main-class a {
+     color: gray;
+   
+   }
+   .main-class a.active {
+     color: blue;
+   
+   }
+
+   a{
+    cursor:pointer;
+    font-style: normal;
+    font-weight: 400;
+   }
+
+   .button-class {
+     background: white;
+     font-family: 'Times New Roman', Times, serif;
+    font-size: normal;
+   font-size: 16px;
+   font-weight: 500;
+   cursor:pointer;
+   
+   }
+   button{
+    cursor:pointer;
+   }
+   .clasa {
+    background-color:black;
+    }
+   
+   p {
+     color: gray;
+     font-family: 'Times New Roman', Times, serif;
+   font-size: 16px;
+   font-weight: 400;
+   line-height: 1.5;
+   
+   
+   }
